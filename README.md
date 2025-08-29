@@ -7,4 +7,5 @@
 - Problem 121  - Best Time to Buy and Sell Stock
 - Problem 125  - Valid Palindrome
 - Problem 226  - Invert Binary Tree
+- Problem 242  - Valid Anagram
 - Problem 1768 - Merge Strings Alternately
