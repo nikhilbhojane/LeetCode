@@ -5,5 +5,6 @@
 - Problem 20   - Valid Parentheses
 - Problem 21   - Merge Two Sorted Lists
 - Problem 121  - Best Time to Buy and Sell Stock
+- Problem 125  - Valid Palindrome
 - Problem 226  - Invert Binary Tree
 - Problem 1768 - Merge Strings Alternately
