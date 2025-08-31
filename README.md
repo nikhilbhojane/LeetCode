@@ -8,4 +8,5 @@
 - Problem 125  - Valid Palindrome
 - Problem 226  - Invert Binary Tree
 - Problem 242  - Valid Anagram
+- Problem 704  - Binary Search
 - Problem 1768 - Merge Strings Alternately
